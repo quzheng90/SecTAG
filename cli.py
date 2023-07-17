@@ -20,7 +20,7 @@ def get_args():
     parser.add_argument('-sc', '--scheduler', help='Use scheduler to optimizer', action='store_true')
     parser.add_argument('-se', '--seed', help='Random seed', type=int, required=False, default=19900511)
 
-    parser.add_argument('--ckpt', type=str, required=False, default='E:/quz/hashtag_hijack/save/models/all_bert_seed19900511.pt')
+    parser.add_argument('--ckpt', type=str, required=False, default='')
 
     # Transformers
     parser.add_argument('-ad', '--attention-dropout', help='transformer attention dropout', type=float, required=False, default=0.1)
