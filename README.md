@@ -1,3 +1,3 @@
 # SecTAG
 Paper
-Code release for "Meta-reweighted Regularization for Unsupervised Domain Adaptation"
+Code release for "SecTAG: Detecting Hashtag Hijack Attack Using a Multi-Task Learning Framework"
